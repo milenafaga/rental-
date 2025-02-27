@@ -23,17 +23,8 @@ Using **PostgreSQL**, queries were executed to extract meaningful insights, and 
 ---
 
 ## 📊 Visualizations  
-🔗 **[View Interactive Dashboards on Tableau Public](#)**  
+🔗 **[View Interactive Dashboards on Tableau Public](https://public.tableau.com/app/profile/milena.fagandini/viz/Rockbuster1_17375723599090/Sheet2)**  
 
----
-
-## 📂 Project Structure  
-📁 Rockbuster_Stealth_SQL_Analysis
-├── 📜 README.md # Project documentation
-├── 📂 SQL_Scripts # SQL queries for analysis
-├── 📂 Data_Insights # Reports & findings
-├── 📂 Visualizations # Tableau dashboards
-└── 📂 References # Additional resources
 
 
 ---
